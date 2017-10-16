@@ -1,5 +1,5 @@
 {
-  "name": "hunts-point-pos",
+  "name": "point-of-sale",
   "version": "0.0.0",
   "description": "A proof-of-concept minus the proof.",
   "main": "server/index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/afaqurk/hunts-point-pos.git"
   },
-  "author": "Afaq Tariq",
+  "author": "Tashfique Raymon",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afaqurk/hunts-point-pos/issues"

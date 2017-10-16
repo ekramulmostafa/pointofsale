@@ -1,9 +1,9 @@
 {
-  "name": "hunts-point-pos",
+  "name": "point-of-sale",
   "version": "0.0.0",
   "homepage": "https://github.com/afaqurk/hunts-point-pos",
   "authors": [
-    "Afaq Tariq <afaq05@gmail.com>"
+    "Tashfique Raymon <raymon007@gmail.com>"
   ],
   "license": "MIT",
   "private": true,
